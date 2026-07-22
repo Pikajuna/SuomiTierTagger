@@ -1,0 +1,76 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/axe.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE701"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/mace.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE702"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/nethop.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE703"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/pot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE704"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/smp.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE705"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/sword.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE706"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/uhc.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE707"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "suomitiertagger:stt/vanilla.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\uE708"
+      ]
+    }
+  ]
+}

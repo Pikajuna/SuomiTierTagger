@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+bin/
+
+# Fabric Loom run directories
+run/
+run-test/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Local files
+*.log
+*.tmp
+.env
+.env.*
+.agents/
+.codex/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini

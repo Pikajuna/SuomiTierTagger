@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "suomitiertagger",
+  "version": "${version}",
+  "name": "SuomiTierTagger",
+  "description": "Näyttää tierejä pelaajien päiden yllä Suomi Tier Listan nettisivuilta (versio ${minecraft_version}).",
+  "authors": ["Pikajuna"],
+  "contact": {"Discord": "Pikajuna"},
+  "license": "MIT",
+  "environment": "client",
+  "icon": "assets/suomitiertagger/icon.png",
+  "entrypoints": {
+    "client": ["com.tiertagger.TierTaggerClient"]
+  },
+  "mixins": [
+    "tiertagger.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
